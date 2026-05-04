@@ -1,2 +1,2 @@
-# AI-Powered-Banking-Risk-Intelligence-Platform
-AI powered banking analytics platform for fraud detection, credit risk assessment, customer segmentation and executive business intelligence using Python, SQL and Power BI.
+AI Powered Banking Risk Intelligence Platform
+Enterprise-grade banking analytics solution inspired by real world use cases at JPMorgan Chase, Deloitte, KPMG and Microsoft.

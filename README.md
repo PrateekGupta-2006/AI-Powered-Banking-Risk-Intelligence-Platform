@@ -57,28 +57,49 @@ Key Features -
 11.K-Means Clustering
 
 Project Architecture - 
+
 Raw Banking Data
+
        ↓
+       
 Data Cleaning & Feature Engineering
+
        ↓
+       
 SQL Data Warehouse
+
        ↓
+       
 Machine Learning Models
+
        ↓
+       
 Power BI Dashboards
+
        ↓
+       
 Business Recommendations
 
 Project Impact-
+
 Improved fraud detection accuracy
+
 Identified high risk loan applicants
+
 Segmented customers for targeted strategies
+
 Delivered executive insights through interactive dashboards
+
 Ideal Use Cases
 
 This project demonstrates skills relevant for roles in:
+
 Data Analytics
+
 Risk Analytics
+
 Business Intelligence
+
 Financial Analytics
+
 Consulting Analytics

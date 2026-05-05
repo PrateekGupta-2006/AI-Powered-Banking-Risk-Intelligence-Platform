@@ -2,12 +2,12 @@ AI Powered Banking Risk Intelligence Platform
 
 Enterprise grade banking analytics solution inspired by real world use cases at JPMorgan Chase, Deloitte, KPMG and Microsoft.
 
-About This Project-
+-> About This Project-
 Financial institutions process millions of transactions every day, facing challenges such as fraud, loan defaults, customer churn and operational risk.
 
 This project simulates a real world banking analytics ecosystem by combining data engineering, machine learning and business intelligence to help decision makers identify risks, improve customer insights and optimize financial performance.
 
-Business Problems Solved - 
+-> Business Problems Solved - 
 ✅ Fraudulent transaction detection
 
 ✅ Loan default risk prediction
@@ -20,7 +20,7 @@ Business Problems Solved -
 
 ✅ Executive KPI reporting
 
-Tech Stack
+-> Tech Stack
 Python — Data cleaning, feature engineering, machine learning
 
 SQL — Data modeling, warehousing, business queries
@@ -33,7 +33,7 @@ Streamlit — Deployment (optional)
 
 GitHub — Version control
 
-Key Features -
+-> Key Features -
 1. Real time fraud risk scoring
 
 2. Loan default prediction model
@@ -56,7 +56,7 @@ Key Features -
 
 11.K-Means Clustering
 
-Project Architecture - 
+-> Project Architecture - 
 
 Raw Banking Data
 
@@ -80,7 +80,7 @@ Power BI Dashboards
        
 Business Recommendations
 
-Project Impact-
+-> Project Impact-
 
 Improved fraud detection accuracy
 
@@ -90,7 +90,7 @@ Segmented customers for targeted strategies
 
 Delivered executive insights through interactive dashboards
 
-Ideal Use Cases
+-> Ideal Use Cases
 
 This project demonstrates skills relevant for roles in:
 

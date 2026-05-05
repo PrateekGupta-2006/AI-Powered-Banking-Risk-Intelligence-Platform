@@ -9,6 +9,7 @@ This project simulates a real world banking analytics ecosystem by combining dat
 
 Business Problems Solved - 
 ✅ Fraudulent transaction detection
+
 ✅ Loan default risk prediction
 
 ✅ Customer segmentation
@@ -21,10 +22,15 @@ Business Problems Solved -
 
 Tech Stack
 Python — Data cleaning, feature engineering, machine learning
+
 SQL — Data modeling, warehousing, business queries
+
 Power BI — Interactive dashboards
+
 Jupyter Notebook — Analysis and experimentation
+
 Streamlit — Deployment (optional)
+
 GitHub — Version control
 
 Key Features -

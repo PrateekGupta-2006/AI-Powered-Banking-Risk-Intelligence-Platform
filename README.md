@@ -6,3 +6,59 @@ About This Project-
 Financial institutions process millions of transactions every day, facing challenges such as fraud, loan defaults, customer churn and operational risk.
 
 This project simulates a real world banking analytics ecosystem by combining data engineering, machine learning and business intelligence to help decision makers identify risks, improve customer insights and optimize financial performance.
+
+Business Problems Solved - 
+✅ Fraudulent transaction detection
+✅ Loan default risk prediction
+✅ Customer segmentation
+✅ Branch performance monitoring
+✅ Credit risk assessment
+✅ Executive KPI reporting
+
+Tech Stack
+Python — Data cleaning, feature engineering, machine learning
+SQL — Data modeling, warehousing, business queries
+Power BI — Interactive dashboards
+Jupyter Notebook — Analysis and experimentation
+Streamlit — Deployment (optional)
+GitHub — Version control
+
+Key Features -
+Real time fraud risk scoring
+Loan default prediction model
+Customer lifetime value analysis
+Customer clustering using machine learning
+Executive dashboards for business stakeholders
+Branch level profitability analysis
+Machine Learning Models
+Logistic Regression
+Random Forest
+XGBoost
+K-Means Clustering
+
+Project Architecture - 
+Raw Banking Data
+       ↓
+Data Cleaning & Feature Engineering
+       ↓
+SQL Data Warehouse
+       ↓
+Machine Learning Models
+       ↓
+Power BI Dashboards
+       ↓
+Business Recommendations
+
+Project Impact-
+Improved fraud detection accuracy
+Identified high risk loan applicants
+Segmented customers for targeted strategies
+Delivered executive insights through interactive dashboards
+Ideal Use Cases
+
+This project demonstrates skills relevant for roles in:
+Data Analytics
+Risk Analytics
+Business Intelligence
+Financial Analytics
+Consulting Analytics

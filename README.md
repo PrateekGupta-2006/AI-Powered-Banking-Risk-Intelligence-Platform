@@ -9,10 +9,15 @@ This project simulates a real world banking analytics ecosystem by combining dat
 
 Business Problems Solved - 
 ✅ Fraudulent transaction detection
+
 ✅ Loan default risk prediction
+
 ✅ Customer segmentation
+
 ✅ Branch performance monitoring
+
 ✅ Credit risk assessment
+
 ✅ Executive KPI reporting
 
 Tech Stack

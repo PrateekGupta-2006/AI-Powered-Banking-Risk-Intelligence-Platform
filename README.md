@@ -34,17 +34,27 @@ Streamlit — Deployment (optional)
 GitHub — Version control
 
 Key Features -
-Real time fraud risk scoring
-Loan default prediction model
-Customer lifetime value analysis
-Customer clustering using machine learning
-Executive dashboards for business stakeholders
-Branch level profitability analysis
-Machine Learning Models
-Logistic Regression
-Random Forest
-XGBoost
-K-Means Clustering
+1. Real time fraud risk scoring
+
+2. Loan default prediction model
+
+3.Customer lifetime value analysis
+
+4.Customer clustering using machine learning
+
+5.Executive dashboards for business stakeholders
+
+6.Branch level profitability analysis
+
+7.Machine Learning Models
+
+8.Logistic Regression
+
+9.Random Forest
+
+10.XGBoost
+
+11.K-Means Clustering
 
 Project Architecture - 
 Raw Banking Data
